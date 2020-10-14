@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.2
+certifi==2020.6.20
+chardet==3.0.4
+idna==2.5
+imutils==0.5.3
+numpy==1.19.2
+opencv-python==3.4.2.17
+requests2==2.16.0
+scipy==1.5.2
+soupsieve==2.0.1
+urllib3==1.21.1

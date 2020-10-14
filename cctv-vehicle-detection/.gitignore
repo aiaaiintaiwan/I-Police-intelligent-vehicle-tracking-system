@@ -1,0 +1,10 @@
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.weights
+__pycache__/**
+
+cctv_images/
+predict_result/
+venv/
